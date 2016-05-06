@@ -1,0 +1,5 @@
+.idea/
+.vagrant/
+output-virtualbox-iso/
+packer_cache/
+ubuntu64-14-04-NL.box
